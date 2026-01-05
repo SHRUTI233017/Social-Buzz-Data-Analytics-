@@ -1,4 +1,4 @@
-# 📊 Accenture Virtual Internship – Social Buzz Data Analytics Case Study
+# 📊 Social Buzz Data Analytics Case Study
 
 ## 🧭 Project Overview
 
