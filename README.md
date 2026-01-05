@@ -116,6 +116,8 @@ These datasets directly answered the business question.
 
 * **16 unique content categories** identified
 
+  
+
 <img width="2175" height="1064" alt="image" src="https://github.com/user-attachments/assets/ee0047cc-e0cb-4967-b075-82c733f8ad73" />
 
 * **Top 5 most popular categories:**
@@ -126,6 +128,8 @@ These datasets directly answered the business question.
   4. Technology
   5. Food
 * Animal content received **~1,900 reactions**, the highest overall
+
+
 <img width="2237" height="1092" alt="image" src="https://github.com/user-attachments/assets/a56e2f60-5199-4218-a676-25e43235fde8" />
 
 * **January** recorded the highest posting activity
