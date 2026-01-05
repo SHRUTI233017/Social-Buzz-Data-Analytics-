@@ -1,6 +1,5 @@
 # Social-Buzz-Data-Analytics
-Below is a **clean, professional GitHub README** you can directly copy-paste into your repository.
-It is written **exactly in line with the Accenture (Forage) Social Buzz case**, recruiter-friendly, and interview-ready.
+
 
 ---
 
