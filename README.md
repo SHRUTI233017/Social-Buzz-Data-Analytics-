@@ -56,6 +56,12 @@ After requirements gathering, the analysis focused on:
 These datasets directly answered the business question.
 
 ---
+## 🛠 Tools Used
+
+
+* 🟢 **Microsoft Excel**
+  
+---
 
 ## 🔄 Project Approach (Step-by-Step)
 
