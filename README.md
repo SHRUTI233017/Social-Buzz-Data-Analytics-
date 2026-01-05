@@ -161,5 +161,5 @@ These datasets directly answered the business question.
 This project is part of the **Accenture North America Data Analytics & Visualization Job Simulation** hosted on **Forage**, simulating real-world consulting tasks performed by Accenture analysts.
 
 
-Just tell me 👍
+
 
