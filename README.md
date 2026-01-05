@@ -1,4 +1,4 @@
-# 🌐Social Buzz Data Analytics 
+# 🌐Social Buzz Data Analytics
 
 ## 🧭 Project Overview
 
